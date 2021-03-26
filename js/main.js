@@ -40,7 +40,7 @@
 
 // console.log(personalMovieDB);
 
-
+// 'use strict';
 
 // #2 lesson 
 
